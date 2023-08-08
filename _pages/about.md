@@ -21,6 +21,8 @@ Recent News
 ======
 - We will participate in the 2nd TBM Tunneling Parameters Data Sharing and Machine Learning Competition.
 
+- I attended HKUST(GZ) joint summer camp. Interesting journey!
+
 - I attended the National Highway Tunnel Academic Annual Conference.
 
 - Our paper titled ["Significance and formulation of ground loss in tunneling-induced settlement prediction: a data-driven study"](https://link.springer.com/article/10.1007/s11440-023-01859-8) is published in Acta Geotechnica. This study comprehensively assessed the existing formulations of ground loss, and proposed a better data-driven model that can accurately capture the relationships between the ground loss and related features, e.g., operating parameters. The proposed model is further integrated into classical settlement solutions, yielding a hybrid model that shows great performance in tunneling-induced settlement.
