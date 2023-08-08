@@ -3,7 +3,7 @@ title: "A quality index for construction big data in EPB shield tunneling"
 collection: publications
 permalink: /publication/4-paper
 excerpt: 'We proposed a concise formulation of a quality index for construction big data in EPB shield tunneling, which is defined as the average value among three distinct sub-terms, i.e., Representativeness, Diversity, and Informativeness.'
-date: 2022-7-14
+date: 2023-7-14
 venue: 'Working paper, to be submitted to Automation in Construction'
 paperurl: ''
 citation: ''
