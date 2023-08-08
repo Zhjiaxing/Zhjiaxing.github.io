@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am now a research assisstant in [Department of Civil engineering](http://ce.hnu.edu.cn/index.htm) at [Hunan University](https://www.hnu.edu.cn/index.htm), supervised by Prof. [Chao Zhao](https://grzy.hnu.edu.cn/site/index/zhangchao).
+- I am now a research assisstant in [Department of Civil engineering](http://ce.hnu.edu.cn/index.htm) at [Hunan University](https://www.hnu.edu.cn/index.htm), supervised by Prof. [Chao Zhang](https://grzy.hnu.edu.cn/site/index/zhangchao).
 
 - Prior to entering Hunan University, I got my bachelor's degree from [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/), supervised by Prof. Shiyong He.
 
