@@ -1,9 +1,9 @@
 ---
 title: "Significance and formulation of ground loss in tunneling-induced settlement prediction: a data-driven study"
 collection: publications
-permalink: /publication/ground-loss
+permalink: /publication/1-paper
 excerpt: 'We developed a data-drvien formulation for capturing the relationships between ground loss and relative parameters, whihc can well capture the target with an R-value equaling 0.84.The developed formulation is implemented in the O’Reilly & New solution, yielding a hybrid model for settlement. This hybrid model can well predict the settlement with an R-value of 0.84, confirming the feasibility of the data-driven formulation for ground loss.'
-date: 2023-4-9
+date: 2023-4
 venue: 'Acta Geotechnica'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Ren, Yuhao, et al. "Significance and formulation of ground loss in tunneling-induced settlement prediction: a data-driven study." Acta Geotechnica (2023): 1-16.'

@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "A Kriging-Random Forest Hybrid Model for Real-time Ground Property Prediction during Earth Pressure Balance Shield Tunneling"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+permalink: /publication/2-paper
+excerpt: 'A kriging-random forest hybrid model is developed for real-time ground property prediction ahead of the earth pressure balanced shield by integrating Kriging extrapolation and random forest, which can guide shield operating parameter selection thereby mitigate construction risks. The proposed KRF algorithm synergizes two types of information: prior information and real-time information.'
 date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+venue: 'axiv'
+paperurl: 'https://arxiv.org/abs/2305.05128#:~:text=A%20kriging%2Drandom%20forest%20hybrid%20model%20is%20developed%20for%20real,selection%20thereby%20mitigate%20construction%20risks.'
+citation: 'Geng, Z., Zhang, C., Ren, Y., Zhu, M., Chen, R., & Cheng, H. (2023). A Kriging-Random Forest Hybrid Model for Real-time Ground Property Prediction during Earth Pressure Balance Shield Tunneling. arXiv preprint arXiv:2305.05128.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+A kriging-random forest hybrid model is developed for real-time ground property prediction ahead of the earth pressure balanced shield by integrating Kriging extrapolation and random forest, which can guide shield operating parameter selection thereby mitigate construction risks. The proposed KRF algorithm synergizes two types of information: prior information and real-time information. The previously predicted ground properties with EPB operating parameters are extrapolated via the Kriging algorithm to provide prior information for the prediction of currently being excavated ground properties. The real-time information refers to the real-time operating parameters of the EPB shield, which are input into random forest to provide a real-time prediction of ground properties. The integration of these two predictions is achieved by assigning weights to each prediction according to their uncertainties, ensuring the prediction of KRF with minimum uncertainty. The performance of the KRF algorithm is assessed via a case study of the Changsha Metro Line 4 project. It reveals that the proposed KRF algorithm can predict ground properties with an accuracy of 93%, overperforming the existing algorithms of LightGBM, AdaBoost-CART, and DNN by 29%, 8%, and 12%, respectively. Another dataset from Shenzhen Metro Line 13 project is utilized to further evaluate the model generalization performance, revealing that the model can transfer its learned knowledge from one region to another with an accuracy of 89%.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Geng, Z., Zhang, C., Ren, Y., Zhu, M., Chen, R., & Cheng, H. (2023). A Kriging-Random Forest Hybrid Model for Real-time Ground Property Prediction during Earth Pressure Balance Shield Tunneling. arXiv preprint arXiv:2305.05128.

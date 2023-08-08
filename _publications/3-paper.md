@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 3"
+title: "A novel tunnel lighting method aided by highly diffuse reflective materials on the sidewall: Theory and practice"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+permalink: /publication/3-paper
+excerpt: 'We implement a so-called five-parameter model for identifying the reflection properties of tunnel walls, calibrating the models with the experimental results of common materials of tunnel walls. Then, We taken reflection properties of tunnel walls into illuminance calculation via the five-parameter model and proposed an analytical solution. '
 date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 'Tunnelling and Underground Space Technology'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0886779821005277'
+citation: 'He, S., Ren, Y., Liu, H., Liang, B., & Du, G. (2022). A novel tunnel lighting method aided by highly diffuse reflective materials on the sidewall: Theory and practice. Tunnelling and Underground Space Technology, 122, 104336.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+We implement a so-called five-parameter model for identifying the reflection properties of tunnel walls, calibrating the models with the experimental results of common materials of tunnel walls. Then, We taken reflection properties of tunnel walls into illuminance calculation via the five-parameter model and proposed an analytical solution.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0886779821005277)
+
+Recommended citation: He, S., Ren, Y., Liu, H., Liang, B., & Du, G. (2022). A novel tunnel lighting method aided by highly diffuse reflective materials on the sidewall: Theory and practice. Tunnelling and Underground Space Technology, 122, 104336.
