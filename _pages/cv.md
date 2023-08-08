@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Chongqing Jiaotong University, 2021
-* M.S. in Hunan University, 2024 (excepted)
+* M.S. in Hunan University, 2024 (expected)
 
 Publication 
 ======
