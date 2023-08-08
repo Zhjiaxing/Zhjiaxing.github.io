@@ -43,11 +43,11 @@ Experience
 
 
 * **Transfer learning for chamber pressure prediction in EPB shield tunneling**
-  * Transfer learning framework for chamber pressure prediction: Introduced the transfer learning methods, e.g., fine-tuning, CORAL, and MMD, for enhancing the generalization ability of existing models in predicting chamber pressure from different projects 
-  * Performance of the transfer learning frameworks: Utilize two filed datasets from Tianjin City and Changsha City to quantitatively demonstrate the effectiveness of the selected transfer learning methods in the few-shots problem of chamber pressure prediction 
+  * **Transfer learning framework for chamber pressure prediction:** Introduced the transfer learning methods, e.g., fine-tuning, CORAL, and MMD, for enhancing the generalization ability of existing models in predicting chamber pressure from different projects 
+  * **Performance of the transfer learning frameworks:** Utilize two filed datasets from Tianjin City and Changsha City to quantitatively demonstrate the effectiveness of the selected transfer learning methods in the few-shots problem of chamber pressure prediction 
 
 *  **Data-driven modeling for ground loss in EPB shield tunneling**
-  * **Hybrid model for tunneling-induced settlement:** Develop a random forest model for capturing the relationship between the ground loss and related features, which is integrated into the classical settlement solutions, yielding a hybrid model for tunneling-induced settlement
+    * **Hybrid model for tunneling-induced settlement:** Develop a random forest model for capturing the relationship between the ground loss and related features, which is integrated into the classical settlement solutions, yielding a hybrid model for tunneling-induced settlement
 
 
 
