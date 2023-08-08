@@ -27,7 +27,7 @@ Publication
 Experience 
 ======
 * Physics-informed inverse modeling for SWRC and HC
-  * Specify an inverse PINN for identifying SWRC and HCF: Encode the Richardson-Richards equation (RRE) into the loss function of a neural network, and set constitutive parameters of SWRC and HCF as trainable parameters 
+  * Specify an inverse PINN for identifying SWRC and HCF: Encode the Richardson-Richards equation (RRE) into the loss function of a neural network, while also treating the constitutive parameters of both SWRC and HCF as trainable variables.
   * Determine the boundary condition of the RRE: Survey the common experiments, identifying their boundary conditions and enforcing them in the loss function 
   * Validation: Simulated data and experiment data are utilized for demonstrating the effectiveness of the proposed framework 
 * Quality index for construction big data in EPB shield tunneling
