@@ -26,28 +26,34 @@ Publication
 
 Experience 
 ======
-* Physics-informed inverse modeling for SWRC and HC
-  * Specify an inverse PINN for identifying SWRC and HCF: Encode the Richardson-Richards equation (RRE) into the loss function of a neural network, while also treating the constitutive parameters of both SWRC and HCF as trainable variables.
-  * Determine the boundary condition of the RRE: Survey the common experiments, identifying their boundary conditions and enforcing them in the loss function 
-  * Validation: Simulated data and experiment data are utilized for demonstrating the effectiveness of the proposed framework 
-* Quality index for construction big data in EPB shield tunneling
-  * Quality index development: Pioneere the first quality measure for construction big data in EPB shield tunneling, which consists of three components, i.e., representativeness, diversity, and informativeness. 
-  * Verify the effectiveness of the proposed quality index: The quality index of data and the performance of the models developed by data are quantitatively compared via a correlation analysis, the high R-values ¿0.9 confirms the effectiveness of the quality index 
-* Surrogate model for structures response under dynamical loading
-  * Surrogate model development: We are the first to introduce deep neural operators e.g., DeepONet and FNO, into surrogate modeling for structure response under dynamical loading
-  * Transfer learning of surrogate model: We implemented transfer learning methods for helping developed models maintain effectiveness under different conditions 
-* Transfer learning for chamber pressure prediction in EPB shield tunneling
+* **Physics-informed inverse modeling for SWRC and HCF**
+  * **Specify an inverse PINN for identifying SWRC and HCF:** Encode the Richardson-Richards equation (RRE) into the loss function of a neural network, while also treating the constitutive parameters of both SWRC and HCF as trainable variables.
+  * **Determine the boundary condition of the RRE:** Survey the common experiments, identifying their boundary conditions and enforcing them in the loss function 
+  * **Validation:** Simulated data and experiment data are utilized for demonstrating the effectiveness of the proposed framework 
+
+
+* **Quality index for construction big data in EPB shield tunneling**
+  * **Quality index development:** Pioneere the first quality measure for construction big data in EPB shield tunneling, which consists of three components, i.e., representativeness, diversity, and informativeness. 
+  * **Verify the effectiveness of the proposed quality index:** The quality index of data and the performance of the models developed by data are quantitatively compared via a correlation analysis, the high R-values ¿0.9 confirms the effectiveness of the quality index 
+
+
+* **Surrogate model for structures response under dynamical loading**
+  * **Surrogate model development:** We are the first to introduce deep neural operators e.g., DeepONet and FNO, into surrogate modeling for structure response under dynamical loading
+  * **Transfer learning of surrogate model:** We implemented transfer learning methods for helping developed models maintain effectiveness under different conditions 
+
+
+* **Transfer learning for chamber pressure prediction in EPB shield tunneling**
   * Transfer learning framework for chamber pressure prediction: Introduced the transfer learning methods, e.g., fine-tuning, CORAL, and MMD, for enhancing the generalization ability of existing models in predicting chamber pressure from different projects 
   * Performance of the transfer learning frameworks: Utilize two filed datasets from Tianjin City and Changsha City to quantitatively demonstrate the effectiveness of the selected transfer learning methods in the few-shots problem of chamber pressure prediction 
 
-*  Data-driven modeling for ground loss in EPB shield tunneling
-  * Hybrid model for tunneling-induced settlement: Develop a random forest model for capturing the relationship between the ground loss and related features, which is integrated into the classical settlement solutions, yielding a hybrid model for tunneling-induced settlement
+*  **Data-driven modeling for ground loss in EPB shield tunneling**
+  * **Hybrid model for tunneling-induced settlement:** Develop a random forest model for capturing the relationship between the ground loss and related features, which is integrated into the classical settlement solutions, yielding a hybrid model for tunneling-induced settlement
 
 
 
-* Calculation method for the illuminance in tunnels
-  * Reflection properties of tunnel wall: Implement a so-called five-parameter model for identifying the reflection properties of tunnel walls, calibrating the models with the experimental results of common materials of tunnel walls
-  *  Solution for the illuminance in tunnels: Taken reflection properties of tunnel walls into illuminance calculation via the five-parameter model and proposed an analytical solution. 
+* **Calculation method for the illuminance in tunnels**
+  * **Reflection properties of tunnel wall:** Implement a so-called five-parameter model for identifying the reflection properties of tunnel walls, calibrating the models with the experimental results of common materials of tunnel walls
+  *  **Solution for the illuminance in tunnels:** Taken reflection properties of tunnel walls into illuminance calculation via the five-parameter model and proposed an analytical solution. 
 
 Honors and Awards  
 ======
