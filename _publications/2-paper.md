@@ -3,7 +3,7 @@ title: "A Kriging-Random Forest Hybrid Model for Real-time Ground Property Predi
 collection: publications
 permalink: /publication/2-paper
 excerpt: 'A kriging-random forest hybrid model is developed for real-time ground property prediction ahead of the earth pressure balanced shield by integrating Kriging extrapolation and random forest, which can guide shield operating parameter selection thereby mitigate construction risks. The proposed KRF algorithm synergizes two types of information: prior information and real-time information.'
-date: 2010-10-01
+date: 2023-5-9
 venue: 'axiv'
 paperurl: 'https://arxiv.org/abs/2305.05128#:~:text=A%20kriging%2Drandom%20forest%20hybrid%20model%20is%20developed%20for%20real,selection%20thereby%20mitigate%20construction%20risks.'
 citation: 'Geng, Z., Zhang, C., Ren, Y., Zhu, M., Chen, R., & Cheng, H. (2023). A Kriging-Random Forest Hybrid Model for Real-time Ground Property Prediction during Earth Pressure Balance Shield Tunneling. arXiv preprint arXiv:2305.05128.'
