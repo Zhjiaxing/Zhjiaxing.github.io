@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Hunan University, Civil Engineering (AWRU Top 15 Academic Subjects), 2024
+* M.S. in Hunan University, Civil Engineering (**AWRU Top 15 Academic Subjects Worldwide**), 2024
 * B.S. in Chongqing Jiaotong University, Civil Engineering, 2021
 
 Publication 
