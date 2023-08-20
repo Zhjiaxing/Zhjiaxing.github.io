@@ -5,5 +5,5 @@ permalink: /photos/
 author_profile: true
 ---
 
-![pic](/images/ryh.jpg"me")
+![pic](/images/ryh.jpg)
 
