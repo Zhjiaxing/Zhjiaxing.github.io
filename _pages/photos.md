@@ -15,4 +15,4 @@ author_profile: true
 <center>Photo with teammates. I made the game-winning shot to defeat the opponent.</center>
 
 ![team](http://renyuhao825.github.io/images/shot.jpg)
-<center>A game from 4 years ago</center>
+<center>A game from 1 years ago</center>
