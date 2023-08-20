@@ -46,7 +46,7 @@ Experience
     * **Evaluation of existing methods for ground loss:** Survey the existing formulations for ground loss, and quantitatively evaluate them based on the collected field dataset 
     * **Hybrid model for tunneling-induced settlement:** Develop a random forest model for capturing the relationship between the ground loss and related features, which is integrated into the classical settlement solutions, yielding a hybrid model for tunneling-induced settlement
 ![rf](http://renyuhao825.github.io/images/rf.png)
-<center> Hybrid algorithm for settlement prediction. More details will be posted in published version. </center>
+<center> A hybrid algorithm for settlement prediction. More details can be found in the published version. </center>
 
 * **Transfer learning for chamber pressure prediction in EPB shield tunneling**
   * **Transfer learning framework for chamber pressure prediction:** Introduced the transfer learning methods, e.g., fine-tuning, CORAL, and MMD, for enhancing the generalization ability of existing models in predicting chamber pressure from different projects
