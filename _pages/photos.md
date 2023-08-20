@@ -5,5 +5,5 @@ permalink: /photos/
 author_profile: true
 ---
 
-![me](/master/images/renyuhao.jpg)
+![me](http://renyuhao825.github.io/images/RYH.jpg)
 
