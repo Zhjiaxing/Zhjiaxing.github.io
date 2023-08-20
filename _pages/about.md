@@ -14,7 +14,7 @@ redirect_from:
 
 - My research interests cover the development of physics-informed data-driven modeling methodology for engineering practice. Recently, I focused on utilizing scientific machine learning tools, particularly physics-informed neural networks, and operator learning to solve problems in engineering practice.
 
-- I am looking for a PhD position! Please feel free to contact me via renyuhao@hnu.edu.cn or WeChat at 18983815201, if you are interested in me.
+- I am looking for a PhD position! Please feel free to contact me via **renyuhao@hnu.edu.cn** or **WeChat at 18983815201**, if you are interested in me.
 
 
 Recent News
