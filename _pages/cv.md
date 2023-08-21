@@ -16,11 +16,11 @@ Education
 
 Publication 
 ======
-1. **Ren, Y.**, Zhang, C.*, Zhu, M., Chen, R., Wang, J. (2023). Significance and formulation of ground loss in tunnelinginduced settlement prediction: a data-driven study. Acta Geotechnica, 1-16. (**Impact Factor : 6.0**) 
+1. **Ren, Y.**, Zhang, C.*, Zhu, M., Chen, R., Wang, J. (2023). Significance and formulation of ground loss in tunnelinginduced settlement prediction: a data-driven study. *Acta Geotechnica*, 1-16. (**Impact Factor : 6.0**) 
 
-2. He, S.*, **Ren, Y.**, Liu, H., Liang, B., Du, G. (2022). A novel tunnel lighting method aided by highly diffuse reflective materials on the sidewall: Theory and practice. Tunnelling and Underground Space Technology, 122, 104336. (**Impact Factor : 6.9**)  
+2. He, S.*, **Ren, Y.**, Liu, H., Liang, B., Du, G. (2022). A novel tunnel lighting method aided by highly diffuse reflective materials on the sidewall: Theory and practice. *Tunnelling and Underground Space Technology*, 122, 104336. (**Impact Factor : 6.9**)  
 
-3. Geng, Z., Zhang, C.*, **Ren, Y.**, Zhu, M., Chen, R., Cheng, H. (2023). A Kriging-Random Forest Hybrid Model for Real-time Ground Property Prediction during Earth Pressure Balance Shield Tunneling. arXiv preprint arXiv:2305.05128. (Under revision) 
+3. Geng, Z., Zhang, C.*, **Ren, Y.**, Zhu, M., Chen, R., Cheng, H. (2023). A Kriging-Random Forest Hybrid Model for Real-time Ground Property Prediction during Earth Pressure Balance Shield Tunneling. *arXiv preprint arXiv:2305.05128.* (Under revision) 
 
 4. **Ren, Y.**, Zhang, C.*. (2023). A quality index for construction big data in EPB shield tunneling. (In preparing) 
 
