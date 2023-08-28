@@ -17,12 +17,4 @@ redirect_from:
 
 Recent News
 ======
-- We will participate in the 2nd TBM Tunneling Parameters Data Sharing and Machine Learning Competition.
-
-- I attended HKUST(GZ) joint summer camp. Interesting journey!
-
 - I attended the National Highway Tunnel Academic Annual Conference.
-
-- Our paper titled ["Significance and formulation of ground loss in tunneling-induced settlement prediction: a data-driven study"](https://link.springer.com/article/10.1007/s11440-023-01859-8) is published in Acta Geotechnica. This study comprehensively assessed the existing formulations of ground loss, and proposed a better data-driven model that can accurately capture the relationships between the ground loss and related features, e.g., operating parameters. The proposed model is further integrated into classical settlement solutions, yielding a hybrid model that shows great performance in tunneling-induced settlement.
-
-- A collaborative paper with Ziheng titled ["A Kriging-Random Forest Hybrid Model for Real-time Ground Property Prediction during Earth Pressure Balance Shield Tunneling"](https://arxiv.org/abs/2305.05128#:~:text=A%20kriging%2Drandom%20forest%20hybrid%20model%20is%20developed%20for%20real,selection%20thereby%20mitigate%20construction%20risks.) can be finded in arxiv.
