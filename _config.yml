@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuhao REN"
+  name             : "Jiaxing Zhou"
   avatar           : "Jiaxing.jpg"
   bio              : "Hunan University"
   location         : "Changsha, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AOV7GLMWOKQBpiLZ1KGCGugG3FZ5Xq-uzUG6DBmTvl4gfaz9Lhc9R97eL5ZuFNVcZPifB05yvx1kOSJrpeWxZLJyYg0&user=qNqzVTkAAAAJ"
-  email            : "renyuhao@hnu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Yuhao-Ren-6"
+  googlescholar    :
+  email            : "zhou_jx@hnu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Jiaxing-Zhou-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "renyuhao825"
+  github           : "https://github.com/Zhjiaxing"
   google_plus      :
   keybase          :
   instagram        :
