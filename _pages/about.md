@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am now master's student in [Department of Civil Engineering](http://ce.hnu.edu.cn/index.htm) at [Hunan University](https://www.hnu.edu.cn/index.htm), supervised by Prof. [Chao Zhang](https://grzy.hnu.edu.cn/site/index/zhangchao).
+- I am now a master's student in [Department of Civil Engineering](http://ce.hnu.edu.cn/index.htm) at [Hunan University](https://www.hnu.edu.cn/index.htm), supervised by Prof. [Chao Zhang](https://grzy.hnu.edu.cn/site/index/zhangchao).
 
 - My research interests cover the development of physics-informed data-driven modeling methodology for engineering practice. Recently, I focused on utilizing scientific machine learning tools, particularly physics-informed neural networks, and operator learning to solve problems in engineering practice.
 
