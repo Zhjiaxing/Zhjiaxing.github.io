@@ -10,7 +10,7 @@ redirect_from:
 
 - I am now a master's student in [Department of Civil Engineering](http://ce.hnu.edu.cn/index.htm) at [Hunan University](https://www.hnu.edu.cn/index.htm), supervised by Prof. [Chao Zhang](https://grzy.hnu.edu.cn/site/index/zhangchao).
 
-- My research interests cover the development of physics-informed data-driven modeling methodology for engineering practice. Recently, I focused on utilizing scientific machine learning tools, particularly physics-informed neural networks, and operator learning to solve problems in engineering practice.
+- I use numerical modeling techniques, along with probabilistic and statistical tools, to quantify the seismic response characteristics and effectively manage risks for underground structures. Recently, I am pursuing to apply the knowledge-guided machnie learning, e.g.,physics-informed neural networks and operator learning,  to solve problems in earthquake engineering.
 
 - I am looking for a PhD position! Please feel free to contact me via **zhou_jx@hnu.edu.cn** or **WeChat at 15145663684**, if you are interested in me.
 
