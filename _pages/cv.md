@@ -25,9 +25,12 @@ Publication
 Experience 
 ======
 * **Optimal IM-EDP Pairs for Seismic Fragility Analysis of Segmental Tunnels**
-  * This work examines favored PSDM and IM-EDP pair through extensive FEM simulations. A bi-linear model is presented to enhance PSDM's regression accuracy across various ground motion intensities. Subsequently, optimal IM-EDP pairs and fragility curves are generated for segmental tunnels with varying soil conditions and burial depths.
+  * This work examines favored PSDM and IM-EDP pair through extensive FEM simulations. A **bi-linear model** is presented to enhance PSDM's regression accuracy across various ground motion intensities. Subsequently, **optimal IM-EDP pairs** and **fragility curves** are generated for segmental tunnels with **varying soil conditions and burial depths**.
+  * **Used theory:** Probabilistic Seismic Hazard Analysis, Finite Element Method.
+  * **Used simulation tool:**  OpenSees (for Simulation) & Python & Matlab (for Statistical Analysis).
+
 ![Optima IM-EDP]()
-<center> Structure of the proposed framework. More details will be posted in an official release. </center>
+<center> More details will be posted in an official release. </center>
 
 
 
