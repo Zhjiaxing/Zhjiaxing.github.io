@@ -30,7 +30,7 @@ Experience
   * **Used simulation tool:**  OpenSees (for Simulation) & Python & Matlab (for Statistical Analysis).
 
 ![Optima IM-EDP](http://Zhjiaxing.github.io/images/PSDM_model.jpg)
-<center> More details will be posted in an official release. </center>
+<center> Probabilistic seismic demand models. More details will be posted in an official release. </center>
 
 
 
