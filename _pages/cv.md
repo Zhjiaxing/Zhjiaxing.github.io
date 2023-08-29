@@ -32,33 +32,8 @@ Experience
 ![Optima IM-EDP](http://Zhjiaxing.github.io/images/PSDM_model.jpg)
 <center> Probabilistic seismic demand models. More details will be posted in an official release. </center>
 
-
-
-* **Quality index for construction big data in EPB shield tunneling**
-  * **Quality index development:** Pioneer the first quality measure for construction big data in EPB shield tunneling, which consists of three components, i.e., representativeness, diversity, and informativeness
-  * **Verify the effectiveness of the proposed quality index:** The quality index of data is quantitatively compared with the performance of the models developed by data via a correlation analysis, the high R-values that more than 0.9 confirms the effectiveness of the quality index 
-![qi](http://renyuhao825.github.io/images/qi.png)
-<center> Validation process. More details will be posted in an official release. </center>
-
-*  **Data-driven modeling for ground loss in EPB shield tunneling**
-    * **Evaluation of existing methods for ground loss:** Survey the existing formulations for ground loss, and quantitatively evaluate them based on the collected field dataset 
-    * **Hybrid model for tunneling-induced settlement:** Develop a random forest model for capturing the relationship between the ground loss and related features, which is integrated into the classical settlement solutions, yielding a hybrid model for tunneling-induced settlement
-![rf](http://renyuhao825.github.io/images/rf.png)
-<center> A hybrid algorithm for settlement prediction. More details can be found in the published version. </center>
-
-* **Transfer learning for chamber pressure prediction in EPB shield tunneling**
-  * **Transfer learning framework for chamber pressure prediction:** Introduced the transfer learning methods, e.g., fine-tuning, CORAL, and MMD, for enhancing the generalization ability of existing models in predicting chamber pressure from different projects
-  * **Performance of the transfer learning frameworks:** Utilize two filed datasets from Tianjin City and Changsha City to quantitatively demonstrate the effectiveness of the selected transfer learning methods in the few-shots problem of chamber pressure prediction 
-![tl](http://renyuhao825.github.io/images/tl.png)
-<center> Transfer learning frameworks for predicting EPB chamber pressure. </center>
-
-* **Surrogate model for structural response under dynamical loading**
-  * **Surrogate model development:** We are the first to introduce deep neural operators e.g., DeepONet and FNO, into surrogate modeling for the response of underground structures under dynamical loading
-  * **Transfer learning of surrogate model:** We implemented transfer learning methods for maintaining the effectiveness of the developed models under different geological conditions 
-
-
 Honors and Awards  
 ======
-1. **Chinese National Encouragement Scholarship** - May, 2019 
-2. **First-class Prize** of Chongqing Mathematical Contest in Modeling- September, 2019 
-3. **S-award** of International Mathematical Contest in Modeling - March, 2020
+1. **School-level third-class scholarship** - 2017-2018
+2. **School-level third-class scholarship** - 2018-2019
+3. **School-level third-class scholarship** - 2019-2020
