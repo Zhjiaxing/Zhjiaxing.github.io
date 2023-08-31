@@ -56,7 +56,7 @@ Experience
   * **UUsed experiment method:** Multi-dimensional Displacement-controlled Soil Model Box Test
   * **Used simulation tool:**  Similarity Criterion of Capacity
 
-* **Sophisticated Numerical Modeling for Seismic Analysis of Segmental Tunnels **
+* **Sophisticated Numerical Modeling for Seismic Analysis of Segmental Tunnels**
   * We first proposed the fiber beam-based segmental tunnel model for simulating segmental tunnels’ response under seismic shaking, validating comprehensively its accuracy using experimental dataset. The model was then used to study segmental tunnel seismic behavior, underscoring its applicability and stability.
   * **Used theory:** Fiber Beam Element Theory, Finite Element Method
   * **Used simulation tool:**   OpenSees (for simulation)
