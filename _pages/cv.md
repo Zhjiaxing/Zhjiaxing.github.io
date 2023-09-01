@@ -29,7 +29,7 @@ Experience
   * **Used theory:** Probabilistic Seismic Hazard Analysis, Finite Element Method.
   * **Used simulation tool:**  OpenSees (for Simulation) & Python & Matlab (for Statistical Analysis).
 
-![Optima IM-EDP](http://Zhjiaxing.github.io/images/Optima_IM_EDP.jpg)
+![Optima IM-EDP](http://Zhjiaxing.github.io/images/)
 <center> Probabilistic seismic demand models. More details will be posted in an official release. </center>
 
 * **Component-based Fragility Assessment for Segmental Tunnel Under Bidirectional Excitations**
