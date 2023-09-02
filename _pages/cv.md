@@ -42,6 +42,9 @@ Experience
   * **Used theory:** Finite Element Method, Finite Difference Method, Domain Reduction Methods.
   * **Used simulation tool:**  SW4 (for Regional Earthquake Simulation), OpenSees (for SSI Simulation).
 
+![Optima IM-EDP](http://Zhjiaxing.github.io/images/DRM.mp4)
+<center> Optimal IM-EDP pairs. More details will be posted in an official release. </center>
+
 * **Surrogate model for structures response under dynamical loading**
   * we are the first to introduce deep neural operators e.g., DeepONet and FNO, into surrogate modeling for structure response (a frame) under dynamical loading; we implemented transfer learning methods for helping developed models maintain effectiveness under different conditions.
   * **Used theory:** Deep Neural Operators, Transfer Learning, Finite Element Method.
