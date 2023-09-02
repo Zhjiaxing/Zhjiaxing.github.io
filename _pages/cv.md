@@ -49,6 +49,8 @@ Experience
   * We utilize Singular Value Decomposition (SVD) to decompose the fundamental modes and their associated modal weight coefficients for complex dynamic systems characterized by substantial nonlinearity. This procedure enables us to develop a reduced-order model for these systems, in conjunction with Machine Learning (ML) methods.
   * **Used theory:** Singular Value Decomposition (SVD), Machine Learning (ML).
   * **Used simulation tool:**  Python.
+![Optima IM-EDP](http://Zhjiaxing.github.io/images/POD.jpg)
+<center> Fiber beam-based tunnel model. More details will be posted in an official release. </center>
 
 * **Development of sophisticated scaled physical model for RC segments**
   * Physical model testing stands as one of the most potent methods to explore the mechanical traits of underground structures. To date, there is still lack of a physical model embodying both material and geometric nonlinearity for RC segments. We pioneered a scaled physical RC segments model, addressing this gap, using the flexure capacity similarity criterion.
