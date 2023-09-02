@@ -29,8 +29,8 @@ Experience
   * **Used theory:** Probabilistic Seismic Hazard Analysis, Finite Element Method.
   * **Used simulation tool:**  OpenSees (for Simulation) & Python & Matlab (for Statistical Analysis).
 
-![Optima IM-EDP](http://Zhjiaxing.github.io/images/)
-<center> Probabilistic seismic demand models. More details will be posted in an official release. </center>
+![Optima IM-EDP](http://Zhjiaxing.github.io/images/Optima_IM_EDP.jpg)
+<center> Optimal IM-EDP pairs. More details will be posted in an official release. </center>
 
 * **Component-based Fragility Assessment for Segmental Tunnel Under Bidirectional Excitations**
   * A 3D fiber beam model is developed to simulate the seismic response of a staggered segmental tunnel under bidirectional excitations. Thereafter, its seismic fragility is evaluated at component and systematic levels using a component-based fragility framework, with incorporating the effect of soil condition and burial depths.
@@ -60,6 +60,9 @@ Experience
   * We first proposed the fiber beam-based segmental tunnel model for simulating segmental tunnels’ response under seismic shaking, validating comprehensively its accuracy using experimental dataset. The model was then used to study segmental tunnel seismic behavior, underscoring its applicability and stability.
   * **Used theory:** Fiber Beam Element Theory, Finite Element Method
   * **Used simulation tool:**   OpenSees (for simulation)
+
+![Optima IM-EDP](http://Zhjiaxing.github.io/images/Fiber_beam_2d.jpg)
+<center> Fiber beam-based tunnel model. More details will be posted in an official release. </center>
 
 Honors and Awards  
 ======
