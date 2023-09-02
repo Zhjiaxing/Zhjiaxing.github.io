@@ -32,11 +32,6 @@ Experience
 ![Optima IM-EDP](http://Zhjiaxing.github.io/images/Optima_IM_EDP.jpg)
 <center> Optimal IM-EDP pairs. More details will be posted in an official release. </center>
 
-* **Component-based Fragility Assessment for Segmental Tunnel Under Bidirectional Excitations**
-  * A 3D fiber beam model is developed to simulate the seismic response of a staggered segmental tunnel under bidirectional excitations. Thereafter, its seismic fragility is evaluated at component and systematic levels using a component-based fragility framework, with incorporating the effect of soil condition and burial depths.
-  * **Used theory:** Probabilistic Seismic Hazard Analysis, Finite Element Method.
-  * **Used simulation tool:**  OpenSees (for Simulation) & Python & Matlab (for Statistical Analysis).
-
 * **Domain Reduction Method for Seismic Analysis of Deep and Shallow Buried Tunnels**
   * Seismic response of underground structures depends on regional ground motion characteristics and local soil-structure interaction. We propose two types of Domain reduction methods (DRM): an open-form and a close-form DRM, to elucidate response characteristics in underground structures subjected to regionally-scaled earthquakes.
   * **Used theory:** Finite Element Method, Finite Difference Method, Domain Reduction Methods.
@@ -52,6 +47,19 @@ Experience
 ![Optima IM-EDP](http://Zhjiaxing.github.io/images/POD.jpg)
 <center> Fiber beam-based tunnel model. More details will be posted in an official release. </center>
 
+* **Sophisticated Numerical Modeling for Seismic Analysis of Segmental Tunnels**
+  * We first proposed the fiber beam-based segmental tunnel model for simulating segmental tunnels’ response under seismic shaking, validating comprehensively its accuracy using experimental dataset. The model was then used to study segmental tunnel seismic behavior, underscoring its applicability and stability.
+  * **Used theory:** Fiber Beam Element Theory, Finite Element Method
+  * **Used simulation tool:**   OpenSees (for simulation)
+
+![Optima IM-EDP](http://Zhjiaxing.github.io/images/Fiber_beam_2d.jpg)
+<center> Fiber beam-based tunnel model. More details will be posted in an official release. </center>
+
+* **Component-based Fragility Assessment for Segmental Tunnel Under Bidirectional Excitations**
+  * A 3D fiber beam model is developed to simulate the seismic response of a staggered segmental tunnel under bidirectional excitations. Thereafter, its seismic fragility is evaluated at component and systematic levels using a component-based fragility framework, with incorporating the effect of soil condition and burial depths.
+  * **Used theory:** Probabilistic Seismic Hazard Analysis, Finite Element Method.
+  * **Used simulation tool:**  OpenSees (for Simulation) & Python & Matlab (for Statistical Analysis).
+
 * **Development of sophisticated scaled physical model for RC segments**
   * Physical model testing stands as one of the most potent methods to explore the mechanical traits of underground structures. To date, there is still lack of a physical model embodying both material and geometric nonlinearity for RC segments. We pioneered a scaled physical RC segments model, addressing this gap, using the flexure capacity similarity criterion.
   * **Used theory:** Flexure Capacity Similarity Criterion.
@@ -60,14 +68,6 @@ Experience
   * Near filed engineering disturbances, e.g., like tunnel and foundation pit excavation, constitute a significant cause of structural deterioration in segmental tunnels during their operational phase. We evaluate the bending moment and soil pressure distribution for segmental tunnels using a multi-dimensional displacement-controlled soil model box test device.
   * **UUsed experiment method:** Multi-dimensional Displacement-controlled Soil Model Box Test
   * **Used simulation tool:**  Similarity Criterion of Capacity
-
-* **Sophisticated Numerical Modeling for Seismic Analysis of Segmental Tunnels**
-  * We first proposed the fiber beam-based segmental tunnel model for simulating segmental tunnels’ response under seismic shaking, validating comprehensively its accuracy using experimental dataset. The model was then used to study segmental tunnel seismic behavior, underscoring its applicability and stability.
-  * **Used theory:** Fiber Beam Element Theory, Finite Element Method
-  * **Used simulation tool:**   OpenSees (for simulation)
-
-![Optima IM-EDP](http://Zhjiaxing.github.io/images/Fiber_beam_2d.jpg)
-<center> Fiber beam-based tunnel model. More details will be posted in an official release. </center>
 
 Honors and Awards  
 ======
