@@ -38,14 +38,14 @@ Experience
   * **Used simulation tool:**  SW4 (for Regional Earthquake Simulation), OpenSees (for SSI Simulation).
 
 ![Optima IM-EDP](http://Zhjiaxing.github.io/images/DRM.jpg)
-<center> Optimal IM-EDP pairs. More details will be posted in an official release. </center>
+<center> Domain reduced order model. More details will be posted in an official release. </center>
 
 * **POD-based Reduced Order Model for Dynamic Response Simulation**
   * We utilize Singular Value Decomposition (SVD) to decompose the fundamental modes and their associated modal weight coefficients for complex dynamic systems characterized by substantial nonlinearity. This procedure enables us to develop a reduced-order model for these systems, in conjunction with Machine Learning (ML) methods.
   * **Used theory:** Singular Value Decomposition (SVD), Machine Learning (ML).
   * **Used simulation tool:**  Python.
 ![Optima IM-EDP](http://Zhjiaxing.github.io/images/POD.jpg)
-<center> Fiber beam-based tunnel model. More details will be posted in an official release. </center>
+<center> POD-based Reduced Order Model. More details will be posted in an official release. </center>
 
 * **Sophisticated Numerical Modeling for Seismic Analysis of Segmental Tunnels**
   * We first proposed the fiber beam-based segmental tunnel model for simulating segmental tunnels’ response under seismic shaking, validating comprehensively its accuracy using experimental dataset. The model was then used to study segmental tunnel seismic behavior, underscoring its applicability and stability.
