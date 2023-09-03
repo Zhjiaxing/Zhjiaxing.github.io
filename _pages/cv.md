@@ -44,7 +44,7 @@ Experience
   * We utilize Singular Value Decomposition (SVD) to decompose the fundamental modes and their associated modal weight coefficients for complex dynamic systems characterized by substantial nonlinearity. This procedure enables us to develop a reduced-order model for these systems, in conjunction with Machine Learning (ML) methods.
   * **Used theory:** Singular Value Decomposition (SVD), Machine Learning (ML).
   * **Used simulation tool:**  Python.
-![Optima IM-EDP](http://Zhjiaxing.github.io/images/POD.jpg)
+![Optima IM-EDP](http://Zhjiaxing.github.io/images/POD1.gif)
 <center> POD-based Reduced Order Model. More details will be posted in an official release. </center>
 
 * **Sophisticated Numerical Modeling for Seismic Analysis of Segmental Tunnels**
