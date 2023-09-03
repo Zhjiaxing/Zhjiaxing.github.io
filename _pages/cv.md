@@ -28,7 +28,7 @@ Experience
   * This work examines favored PSDM and IM-EDP pair through extensive FEM simulations. A **bi-linear model** is presented to enhance PSDM's regression accuracy across various ground motion intensities. Subsequently, **optimal IM-EDP pairs** and **fragility curves** are generated for segmental tunnels with **varying soil conditions and burial depths**.
   * **Used theory:** Probabilistic Seismic Hazard Analysis, Finite Element Method.
   * **Used simulation tool:**  OpenSees (for Simulation) & Python & Matlab (for Statistical Analysis).
-![Optima IM-EDP](http://Zhjiaxing.github.io/images/Optima_IM_EDP.jpg)
+<center>![Optima IM-EDP](http://Zhjiaxing.github.io/images/Optima_IM_EDP.jpg)<center>
 <center> Optimal IM-EDP pairs. More details will be posted in an official release. </center>
 
 * **Domain Reduction Method for Seismic Analysis of Deep and Shallow Buried Tunnels**
