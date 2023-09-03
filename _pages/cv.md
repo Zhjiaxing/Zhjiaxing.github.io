@@ -28,7 +28,6 @@ Experience
   * This work examines favored PSDM and IM-EDP pair through extensive FEM simulations. A **bi-linear model** is presented to enhance PSDM's regression accuracy across various ground motion intensities. Subsequently, **optimal IM-EDP pairs** and **fragility curves** are generated for segmental tunnels with **varying soil conditions and burial depths**.
   * **Used theory:** Probabilistic Seismic Hazard Analysis, Finite Element Method.
   * **Used simulation tool:**  OpenSees (for Simulation) & Python & Matlab (for Statistical Analysis).
-
 ![Optima IM-EDP](http://Zhjiaxing.github.io/images/Optima_IM_EDP.jpg)
 <center> Optimal IM-EDP pairs. More details will be posted in an official release. </center>
 
@@ -36,7 +35,6 @@ Experience
   * Seismic response of underground structures depends on regional ground motion characteristics and local soil-structure interaction. We propose two types of Domain reduction methods (DRM): an open-form and a close-form DRM, to elucidate response characteristics in underground structures subjected to regionally-scaled earthquakes.
   * **Used theory:** Finite Element Method, Finite Difference Method, Domain Reduction Methods.
   * **Used simulation tool:**  SW4 (for Regional Earthquake Simulation), OpenSees (for SSI Simulation).
-
 ![Optima IM-EDP](http://Zhjiaxing.github.io/images/DRM.gif)
 <center> Domain reduced order model. More details will be posted in an official release. </center>
 
