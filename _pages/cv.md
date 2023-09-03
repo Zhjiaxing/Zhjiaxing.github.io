@@ -16,7 +16,7 @@ Education
 
 Publication 
 ======
-1. **Zhou, J.**, Deng, P., Zhang, C.\*, Geng, Z., Chen, R. (2023). Development and evaluation of a numerical model for seismic analysis of segmental tunnels. *Advances in Structural Engineering*. (**Under review**) 
+1. **Zhou, J.**, Deng, P., Zhang, C.\*, Geng, Z., Chen, R. (2023). Development and evaluation of a numerical model for seismic analysis of segmental tunnels. * Journal of Earthquake and Tsunami*. (**Under review**) 
 
 2. **Zhou, J.**, Zhang, C.\*. (2023). Optimal IM-EDP pairs for seismic fragility analysis of segmental tunnels. (In preparing) 
 
