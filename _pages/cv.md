@@ -28,7 +28,7 @@ Experience
   * This work examines favored PSDM and IM-EDP pair through extensive FEM simulations. A **bi-linear model** is presented to enhance PSDM's regression accuracy across various ground motion intensities. Subsequently, **optimal IM-EDP pairs** and **fragility curves** are generated for segmental tunnels with **varying soil conditions and burial depths**.
   * **Used theory:** Probabilistic Seismic Hazard Analysis, Finite Element Method.
   * **Used simulation tool:**  OpenSees (for Simulation) & Python & Matlab (for Statistical Analysis).
-  
+
 ![Optima IM-EDP](http://Zhjiaxing.github.io/images/Optima_IM_EDP.jpg)
 <center> Optimal IM-EDP pairs. More details will be posted in an official release. </center>
 
@@ -61,7 +61,7 @@ Experience
   * **Used theory:** Probabilistic Seismic Hazard Analysis, Finite Element Method.
   * **Used simulation tool:**  OpenSees (for Simulation) & Python & Matlab (for Statistical Analysis).
 
-* **Development of sophisticated scaled physical model for RC segments**
+* **Development of Sophisticated Scaled Physical Model for RC Segments**
   * Physical model testing stands as one of the most potent methods to explore the mechanical traits of underground structures. To date, there is still lack of a physical model embodying both material and geometric nonlinearity for RC segments. We pioneered a scaled physical RC segments model, addressing this gap, using the flexure capacity similarity criterion.
   * **Used theory:** Flexure Capacity Similarity Criterion.
 
