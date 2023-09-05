@@ -60,6 +60,8 @@ Experience
   * A 3D fiber beam model is developed to simulate the seismic response of a staggered segmental tunnel under bidirectional excitations. Thereafter, its seismic fragility is evaluated at component and systematic levels using a component-based fragility framework, with incorporating the effect of soil condition and burial depths.
   * **Used theory:** Probabilistic Seismic Hazard Analysis, Finite Element Method.
   * **Used simulation tool:**  OpenSees (for Simulation) & Python & Matlab (for Statistical Analysis).
+![Optima IM-EDP](http://Zhjiaxing.github.io/images/Fiber_beam3d.jpg)
+<center> Fiber beam-based tunnel model (three-dimensional model). More details will be posted in an official release. </center>
 
 * **Development of Sophisticated Scaled Physical Model for RC Segments**
   * Physical model testing stands as one of the most potent methods to explore the mechanical traits of underground structures. To date, there is still lack of a physical model embodying both material and geometric nonlinearity for RC segments. We pioneered a scaled physical RC segments model, addressing this gap, using the flexure capacity similarity criterion.
