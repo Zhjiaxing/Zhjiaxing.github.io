@@ -80,7 +80,7 @@ Experience
   * **UUsed experiment method:** Multi-dimensional Displacement-controlled Soil Model Box Test
   * **Used simulation tool:**  Similarity Criterion of Capacity
 ![Optima IM-EDP](http://Zhjiaxing.github.io/images/Experiment.png)
-<center> Jiaxing (Wearing a black t-shirt in the right image) and his colleagues is organizing the installation of test equipment! </center>
+<center> Jiaxing (wearing a black T-shirt in the right image) and his colleagues are currently doing experiment! </center>
 
 Honors and Awards  
 ======
