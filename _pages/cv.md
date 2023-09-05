@@ -29,7 +29,7 @@ Experience
   * **Used theory:** Probabilistic Seismic Hazard Analysis, Finite Element Method.
   * **Used simulation tool:**  OpenSees (for Simulation) & Python & Matlab (for Statistical Analysis).
 
-![Optima IM-EDP](http://Zhjiaxing.github.io/images/Optima_IM_EDP.jpg)
+![Optima IM-EDP](http://Zhjiaxing.github.io/images/Optimalimedp.png)
 <center> Optimal IM-EDP pairs. More details will be posted in an official release. </center>
 
 * **Domain Reduction Method for Seismic Analysis of Deep and Shallow Buried Tunnels**
@@ -72,7 +72,7 @@ Experience
 * **Development of Sophisticated Scaled Physical Model for RC Segments**
   * Physical model testing stands as one of the most potent methods to explore the mechanical traits of underground structures. To date, there is still lack of a physical model embodying both material and geometric nonlinearity for RC segments. We pioneered a scaled physical RC segments model, addressing this gap, using the flexure capacity similarity criterion. This model retains all original features of segment structure, including even Hand hole (d=2mm).
   * **Used theory:** Flexure Capacity Similarity Criterion.
-![Optima IM-EDP](http://Zhjiaxing.github.io/images/model_seg.png)
+![Optima IM-EDP](http://Zhjiaxing.github.io/images/model_segment_1.jpg)
 <center> Production of scaled physical RC segments model. (scale:1:12) </center>
 
 * **Mechanical Behavior of Tunnel Under Near Field Engineering Disturbance**
