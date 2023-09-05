@@ -67,7 +67,7 @@ Experience
   * We developed the first multi-dimensional displacement-controlled soil model box test device for simulating the complex stress and displacement field under urban construction disturbance. An Information Interaction Module is embedded in its control system for the achievement of the hybrid test for underground structures.
   * **Used theory:** Similarity Criterion.
 ![Optima IM-EDP](http://Zhjiaxing.github.io/images/modelbox.png)
-<center> Jiaxing is organizing the installation of test equipment! </center>
+<center> Jiaxing (Pointed out by the arrow in the upper left image) and his colleagues is organizing the installation of test equipment! </center>
 
 * **Development of Sophisticated Scaled Physical Model for RC Segments**
   * Physical model testing stands as one of the most potent methods to explore the mechanical traits of underground structures. To date, there is still lack of a physical model embodying both material and geometric nonlinearity for RC segments. We pioneered a scaled physical RC segments model, addressing this gap, using the flexure capacity similarity criterion.
