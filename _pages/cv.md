@@ -72,6 +72,8 @@ Experience
 * **Development of Sophisticated Scaled Physical Model for RC Segments**
   * Physical model testing stands as one of the most potent methods to explore the mechanical traits of underground structures. To date, there is still lack of a physical model embodying both material and geometric nonlinearity for RC segments. We pioneered a scaled physical RC segments model, addressing this gap, using the flexure capacity similarity criterion.
   * **Used theory:** Flexure Capacity Similarity Criterion.
+![Optima IM-EDP](http://Zhjiaxing.github.io/images/model_seg.png)
+<center> Production of Scale Segments. (scale:1:12) </center>
 
 * **Mechanical Behavior of Tunnel Under Near Field Engineering Disturbance**
   * Near filed engineering disturbances, e.g., like tunnel and foundation pit excavation, constitute a significant cause of structural deterioration in segmental tunnels during their operational phase. We evaluate the bending moment and soil pressure distribution for segmental tunnels using a multi-dimensional displacement-controlled soil model box test device.
