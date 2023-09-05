@@ -37,7 +37,7 @@ Experience
   * **Used theory:** Finite Element Method, Finite Difference Method, Domain Reduction Methods.
   * **Used simulation tool:**  SW4 (for Regional Earthquake Simulation), OpenSees (for SSI Simulation).
 
-![Optima IM-EDP](http://Zhjiaxing.github.io/images/DRM_r_2.gif)
+![Optima IM-EDP](http://Zhjiaxing.github.io/images/DRM_r_.gif)
 <center> Domain reduction methods. More details will be posted in an official release. </center>
 
 * **POD-based Reduced Order Model for Dynamic Response Simulation**
