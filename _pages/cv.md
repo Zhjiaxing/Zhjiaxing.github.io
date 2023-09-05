@@ -70,7 +70,7 @@ Experience
 <center> Jiaxing (Pointed out by the arrow in the upper left image) and his colleagues is organizing the installation of test equipment! </center>
 
 * **Development of Sophisticated Scaled Physical Model for RC Segments**
-  * Physical model testing stands as one of the most potent methods to explore the mechanical traits of underground structures. To date, there is still lack of a physical model embodying both material and geometric nonlinearity for RC segments. We pioneered a scaled physical RC segments model, addressing this gap, using the flexure capacity similarity criterion. This model retains all original features of segment structure, including even Hand hole (d=2mm).
+  * Physical model testing stands as one of the most potent methods to explore the mechanical traits of underground structures. To date, there is still lack of a physical model embodying both material and geometric nonlinearity for RC segments. We pioneered a scaled physical RC segments model, addressing this gap, using the flexure capacity similarity criterion. This model retains all original features of RC segment, including even hand hole (Precision 0.1mm).
   * **Used theory:** Flexure Capacity Similarity Criterion.
 ![Optima IM-EDP](http://Zhjiaxing.github.io/images/model_seg.png)
 <center> Production of scaled physical RC segments model. (scale:1:12) </center>
