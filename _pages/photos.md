@@ -5,8 +5,8 @@ permalink: /photos/
 author_profile: true
 ---
 
-![conference](Zhjiaxing.github.io/images/SANYI.jpg)
-![conference](Zhjiaxing.github.io/images/SANYI2.jpg)
+![conference](http://Zhjiaxing.github.io/images/SANYI.jpg)
+![conference](http://Zhjiaxing.github.io/images/SANYI2.jpg)
 <center>I visited the smart manufacturing factory of SANY in Changsha.</center>
 
 
