@@ -17,5 +17,5 @@ redirect_from:
 
 Recent News
 ======
-- I attended the National Highway Tunnel Academic Annual Conference. Sincere thanks to Prof. Chao Zhang, it was an exciting experience 
-- I visited the Smart Manufacturing Factory of SANY in Changsha.
+- I attended the National Highway Tunnel Academic Annual Conference. 
+- I visited the Smart Manufacturing Factory of SANY in Changsha.Sincere thanks to Prof. Chao Zhang, it was an exciting experience! 
