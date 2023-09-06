@@ -18,4 +18,4 @@ redirect_from:
 Recent News
 ======
 - I attended the National Highway Tunnel Academic Annual Conference.
--
+- I visited the smart manufacturing factory of SANY in Changsha.
