@@ -17,6 +17,6 @@ redirect_from:
 
 Recent News
 ======
-- We are delighted to announce that our patent, bearing the title 'Digital Twin-Based Load Testing Method and System for Proximity Engineering Construction' under Patent Number ZL 2022 1 0115304.7, has been honored with the prestigious distinction of '([2022 Changsha Excellent Patent!](http://csipo.changsha.gov.cn/zfxxgk/tzgg/202212/t20221201_10920213.html))
+- I am delighted to announce that our patent, bearing the title 'Digital Twin-Based Load Testing Method and System for Proximity Engineering Construction' under Patent Number ZL 2022 1 0115304.7, has been honored with the prestigious distinction of '([2022 Changsha Excellent Patent!](http://csipo.changsha.gov.cn/zfxxgk/tzgg/202212/t20221201_10920213.html))
 - I attended the National Highway Tunnel Academic Annual Conference. 
 - I visited the Smart Manufacturing Factory of SANY in Changsha. Sincere thanks to Prof. Chao Zhang, it was an exciting experience! 
