@@ -21,11 +21,13 @@ Publication
 
 2. **Zhou, J.**, Zhang, C.\*. (2023). Optimal IM-EDP pairs for seismic fragility analysis of segmental tunnels. (In preparing) 
 
+\*:Supervisor 
+
 **Patents Granted:**
 1. 1. Chen, R., Zhang, C., Liu, Z., Xu, Z., Lang, Z., **Zhou, J.**, Meng, F., Liu, Y., 2023. Digital Twin-Based Load Testing Method and System for Proximity Engineering Construction. Invention Patent in China, ZL202210115304.7.
 
 
-\*:Supervisor 
+
 
 Experience 
 ======
