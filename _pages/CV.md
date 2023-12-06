@@ -26,8 +26,8 @@ Publication
 
 Dissertation title
 ======
-* Bachelor:  Design of box foundation and pit support of frame structure of Lushan No.2 (88/100)
-* Master: Seismic Fragility Analysis of Segmental Tunnels in Complex Geological Strata (In preparing)
+* **Bachelor**:  Design of box foundation and pit support of frame structure of Lushan No.2 (88/100)
+* **Master**: Seismic Fragility Analysis of Segmental Tunnels in Complex Geological Strata (In preparing)
 
 Research 
 ======
