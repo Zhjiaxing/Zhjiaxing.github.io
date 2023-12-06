@@ -69,7 +69,7 @@ Research
 <center> Fiber beam-based tunnel model (three-dimensional model). More details will be posted in an official release. </center>
 
 **(ⅱ) Evaluation of response mechanism of underground structure via hybrid experiments**  
-(Active participant, Supervised by *Dr. Zhang*, Collaborated with *Zheng-an Liu* and *Huan Zhang*) 
+(Active participant, Supervised by *Dr. Zhang*, Collaborated with *Zheng-an Liu*, *Zhixiong Lang* and *Huan Zhang*) 
 
 * **Design of multi-dimensional displacement-controlled soil model box test device**
   * We developed the first multi-dimensional displacement-controlled soil model box test device for simulating the complex stress and displacement field under urban construction disturbance. An Information Interaction Module is embedded in its control system for the achievement of the hybrid test for underground structures.
