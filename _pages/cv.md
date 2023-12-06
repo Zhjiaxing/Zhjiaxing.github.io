@@ -36,7 +36,7 @@ Experience
   * **Used theory:** Probabilistic Seismic Hazard Analysis, Finite Element Method.
   * **Used simulation tool:**  OpenSees (for Simulation) & Python & Matlab (for Statistical Analysis).
 
-![Optima IM-EDP](http://Zhjiaxing.github.io/images/Optimalimedp.png)
+![Optima IM-EDP](http://Zhjiaxing.github.io/images/Optimal_IM_EDP_pairs.emf)
 <center> Optimal IM-EDP pairs. More details will be posted in an official release. </center>
 
 * **Domain Reduction Method for Seismic Analysis of Deep and Shallow Buried Tunnels**
