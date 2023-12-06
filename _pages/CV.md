@@ -97,9 +97,8 @@ Research
 
 Honors and Awards  
 ======
-1. **School-level scholarship** - 2017-2018
-2. **School-level scholarship** - 2018-2019
-3. **School-level scholarship** - 2019-2020
+**School-level scholarship** - 2017-2018, 2018-2019, 2019-2020
+
 
 Skills 
 ======
