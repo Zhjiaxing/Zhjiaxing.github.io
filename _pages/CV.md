@@ -16,11 +16,9 @@ Education
 
 Publication 
 ======
-**Journal Papers:**
-1. **Zhou, J.**, Deng, P., Zhang, C.\*, Geng, Z., Chen, R. (2023). Development and evaluation of a numerical model for seismic analysis of segmental tunnels. * Journal of Earthquake and Tsunami*. (**Under review**) 
-
-2. **Zhou, J.**, Zhang, C.\*. (2023). Optimal IM-EDP pairs for seismic fragility analysis of segmental tunnels. (In preparing) 
-
+**Journal Papers:**  
+1. **Zhou, J.**, Deng, P., Zhang, C.\*, Geng, Z., Chen, R. (2023). Development and evaluation of a numerical model for seismic analysis of segmental tunnels. * Journal of Earthquake and Tsunami*. (**Under review**)  
+2. **Zhou, J.**, Zhang, C.\*. (2023). Optimal IM-EDP pairs for seismic fragility analysis of segmental tunnels. (In preparing)  
 \*:Supervisor 
 
 **Patents Granted:**
@@ -71,6 +69,7 @@ Research
 
 **(ⅱ) Evaluation of response mechanism of underground structure via hybrid experiments**  
 (Active participant, Supervised by *Dr. Zhang*, Collaborated with *Zheng-an Liu* and *Huan Zhang*) 
+
 * **Design of multi-dimensional displacement-controlled soil model box test device**
   * We developed the first multi-dimensional displacement-controlled soil model box test device for simulating the complex stress and displacement field under urban construction disturbance. An Information Interaction Module is embedded in its control system for the achievement of the hybrid test for underground structures.
   * **Used theory:** Similarity Criterion.
