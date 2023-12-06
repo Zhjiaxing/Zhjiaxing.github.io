@@ -36,10 +36,7 @@ Research
   * **Used simulation tool:**   OpenSees (for simulation)
 
 ![Optima IM-EDP](http://Zhjiaxing.github.io/images/Fiber_beam_2d.jpg)
-<center> Fiber beam-based tunnel model. More details will be posted in an official release. </center>
-
-
-
+<center> Fiber beam-based tunnel model. More details will be posted in an official release. </center>  
 
 * **Optimal IM-EDP Pairs for Seismic Fragility Analysis of Segmental Tunnels**
   * This work examines favored PSDM and IM-EDP pair through extensive FEM simulations. A **bi-linear model** is presented to enhance PSDM's regression accuracy across various ground motion intensities. Subsequently, **optimal IM-EDP pairs** and **fragility curves** are generated for segmental tunnels with **varying soil conditions and burial depths**.
@@ -65,8 +62,6 @@ Research
 ![Optima IM-EDP](http://Zhjiaxing.github.io/images/POD1.gif)
 <center> POD-based reduced order model. More details will be posted in an official release. </center>
 
-
-
 * **Component-based Fragility Assessment for Segmental Tunnel Under Bidirectional Excitations**
   * A 3D fiber beam model is developed to simulate the seismic response of a staggered segmental tunnel under bidirectional excitations. Thereafter, its seismic fragility is evaluated at component and systematic levels using a component-based fragility framework, with incorporating the effect of soil condition and burial depths.
   * **Used theory:** Probabilistic Seismic Hazard Analysis, Finite Element Method.
@@ -74,6 +69,8 @@ Research
 ![Optima IM-EDP](http://Zhjiaxing.github.io/images/Fiber_beam3d.jpg)
 <center> Fiber beam-based tunnel model (three-dimensional model). More details will be posted in an official release. </center>
 
+**(ⅱ) Evaluation of response mechanism of underground structure via hybrid experiments**  
+(Active participant, Supervised by *Dr. Zhang*, Collaborated with *Zheng-an Liu* and *Huan Zhang*) 
 * **Design of multi-dimensional displacement-controlled soil model box test device**
   * We developed the first multi-dimensional displacement-controlled soil model box test device for simulating the complex stress and displacement field under urban construction disturbance. An Information Interaction Module is embedded in its control system for the achievement of the hybrid test for underground structures.
   * **Used theory:** Similarity Criterion.
