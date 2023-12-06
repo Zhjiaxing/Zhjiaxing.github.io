@@ -34,6 +34,7 @@ Research
 (ⅰ) Seismic fragility of shield tunnel in complex soil conditions at both local and regional levels
 (Main contributor, Supervised by Dr. Zhang, Collaborated with Yuhao Ren and Yibo Shao)
 ======
+
 * **Optimal IM-EDP Pairs for Seismic Fragility Analysis of Segmental Tunnels**
   * This work examines favored PSDM and IM-EDP pair through extensive FEM simulations. A **bi-linear model** is presented to enhance PSDM's regression accuracy across various ground motion intensities. Subsequently, **optimal IM-EDP pairs** and **fragility curves** are generated for segmental tunnels with **varying soil conditions and burial depths**.
   * **Used theory:** Probabilistic Seismic Hazard Analysis, Finite Element Method.
