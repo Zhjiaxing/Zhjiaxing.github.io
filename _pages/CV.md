@@ -27,7 +27,8 @@ Publication
 Research 
 ======
 **(ⅰ) Seismic fragility of shield tunnel in complex soil conditions at both local and regional levels**  
-(Main contributor, Supervised by *Dr. Zhang*, Collaborated with *Zixiong Lang*, *Yibo Shao* and *Yuhao Ren*)  
+(Main contributor, Supervised by *Dr. Zhang*, Collaborated with *Yibo Shao* and *Yuhao Ren*)  
+
 * **Sophisticated Numerical Modeling for Seismic Analysis of Segmental Tunnels**
   * We first proposed the fiber beam-based segmental tunnel model for simulating segmental tunnels’ response under seismic shaking, comprehensively validating its accuracy using experimental dataset. The model was then used to study segmental tunnel seismic behavior, underscoring its applicability and stability.
   * **Used theory:** Fiber Beam Element Theory, Finite Element Method
