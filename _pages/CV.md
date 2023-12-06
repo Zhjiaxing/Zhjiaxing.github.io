@@ -24,6 +24,11 @@ Publication
 **Patents Granted:**  
 1. Chen, R., Zhang, C., Liu, Z., Xu, Z., Lang, Z., **Zhou, J.**, Meng, F., Liu, Y., 2023. Digital Twin-Based Load Testing Method and System for Proximity Engineering Construction. Invention Patent in China, ZL202210115304.7.
 
+Dissertation title
+======
+* Bachelor:  Design of box foundation and pit support of frame structure of Lushan No.2 (88/100)
+* Master: Seismic Fragility Analysis of Segmental Tunnels in Complex Geological Strata (In preparing)
+
 Research 
 ======
 **(ⅰ) Seismic fragility of shield tunnel in complex soil conditions at both local and regional levels**  
